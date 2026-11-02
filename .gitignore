@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Model weights (large binaries)
+*.pt
+*.pth
+*.onnx
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# macOS
+.DS_Store
